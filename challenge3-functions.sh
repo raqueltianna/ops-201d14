@@ -4,7 +4,7 @@
 #Author Name:                       Tianna Farrow 
 # Date of latest revision:          10/25/2023
 #Purpose:                           Create a function that prints Login History
-#Execution:                         bash loginhistory.sh or ./loginhistory.sh chmod -x loginhistory.sh
+#Execution:                         bash challenge3-functions.sh or ./challenge3-functions.sh chmod -x challenge3-functions.sh
 
 # Decleration of the variables
 
