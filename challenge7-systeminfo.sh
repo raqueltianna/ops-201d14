@@ -1,11 +1,11 @@
 #!/bin/bash
 # passing arguments to a function
 
-# Script Name:                          systemops.sh
+# Script Name:                          challenge7-systeminfo.sh
 # Author name:                          Tianna Farrow
 # Date of latest revision:              10/31/2023
 # Purpose:                              Use lshw to gather system information
-# Execution:                            sudo ./systemops.sh
+# Execution:                            sudo ./challenge7-systeminfo.sh
 # Additional Resources:                 https://github.com/codefellows/seattle-ops-201d14/blob/main/class-07/challenges/demo/bash.md; https://github.com/codefellows/seattle-ops-201d14/tree/main/class-07/challenges; https://www.geeksforgeeks.org/lshw-command-in-linux-with-examples/; https://www.binarytides.com/linux-lshw-command/
 
 # Decleration of the variables
