@@ -27,3 +27,5 @@ Repository to keep everything 201 together!
 - [System Information](challenge7-systeminfo.sh)
 - [Windows Batch Scripting](challenge8-windowsbatch.md)
 - [Log Retrieval via Powershell](challenge9-powershelllog.bat)
+- [System Process Commands]
+- [Automated Endpoint Configurations](challenge11-autoendpointconfig.bat)
