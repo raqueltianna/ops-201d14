@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script Name:                      array.sh
+# Script Name:                      challenge4-arrays.sh
 # Author Name:                      Tianna Farrow
 # Date of latest revision:          10/26/2023
 # Purpose:                          Create an array using four directories
