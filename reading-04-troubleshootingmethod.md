@@ -1,4 +1,5 @@
 # Reading 04: CompTIA A+ 220-292 Troubleshooting Methodology
+[Article Link](https://www.professormesser.com/free-a-plus-training/220-902/how-to-troubleshoot/)
 
 ### What should you do if multiple issues are happening simultaneously during troubleshooting?
 - If multiple issues are found, you need to be sure to have good documentation of all of the problems so you can get a better look at the total issue. 
