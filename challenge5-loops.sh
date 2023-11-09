@@ -1,11 +1,11 @@
 #!/bin/bash
 # passing arguments to a function
 
-# Script Name:                          loops.sh
+# Script Name:                          challenge5-loops.sh
 # Author name:                          Tianna Farrow
 # Date of latest revision:              10/27/2023
 # Purpose:                              Loop pid information
-# Execution:                            bash loops.sh or ./loops.sh chmod -x loops.sh
+# Execution:                            bash challenge5-loops.sh or ./challenge5-loops.sh chmod -x challenge5-loops.sh
 # Additional resources:                 https://www.quora.com/How-do-you-make-a-shell-script-run-continuously; https://www.linuxquestions.org/questions/programming-9/how-to-make-a-while-loop-iterate-over-script-until-user-input-stops-4175624869/
 
 # Decleration of the variables
