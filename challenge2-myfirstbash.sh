@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script Name: Ops Challenge: Class 02 
+# Script Name: challenge2-myfirstbash.sh
 # Author: Tianna Farrow
 # Date of latest revision: 10/24/2023
 # Purpose: First Ops Challenge for 201 course
