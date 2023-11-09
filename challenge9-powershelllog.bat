@@ -1,4 +1,4 @@
-# Script Name:                               powershelllogcommands.bat
+# Script Name:                               challenge9-powershelllog.bat
 # Author:                                    Tianna Farrow
 # Date of latest revision:                   11/6/2023
 # Purpose:                                   Creating a set of Powershell commands that are useful in regards to the System event logs 
