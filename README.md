@@ -32,7 +32,7 @@
 - [Reading 14: Malware Remediation Tools and Techniques](reading-14-malwareremediation.md)
 
 ### Ops Challeneges:
-My favorite Ops CHallenege assignment and also the one I would like to improve a bit more on was the Loops challenge. The reason this one was my favorite is because being being new at scripting, I found it a little bit difficult. I would like to improve it more because I feel that I could shorten it and make it more simplified. 
+My favorite Ops Challenege assignment and also the one I would like to improve a bit more on was the Loops challenge. The reason this one was my favorite is because being being new at scripting, I found it a little bit difficult. I would like to improve it more because I feel that I could shorten it and make it more simplified. 
 The aspect that I would like to improve with my shell scripting skillset is my efficiency and other debugging practices. I would also like to learn more about automation when it comes to common task that I use.
 
 - [My First Bash Script](challenge2-myfirstbash.sh)
