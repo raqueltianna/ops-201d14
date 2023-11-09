@@ -11,3 +11,4 @@ Repository to keep everything 201 together!
 - [Reading 6: Windows Security Center](reading-06-winsecuritycenter.md)
 - [Reading 7: OS Upgrade and Remote Access](reading-07-osupgraderemote.md)
 - [Reading 8: Readings: System Log Analysis, Registry, Control Panel](reading-08-systemlogregistrycontrol.md)
+- [Reading 9: Workstation Deployment SOP](reading-09-workstationsop.md)
