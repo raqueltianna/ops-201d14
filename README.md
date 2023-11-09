@@ -1,6 +1,19 @@
-# Ops 201d14
+# Ops 201d14 Repo!
 
-Repository to keep everything 201 together!
+## About: 
+- This repo is a collection of assignments, readings, and notes that I have completed throughout my time as an Ops 201 student!
+
+## The Why: 
+- As I grow as a cybersecurity professional knowing things like networking basics, better collaboration and communication, etc. become much more important. As I professional I have to be able to ensure system reliability, be able to effectively troubleshoot, being able to work with a team and learning how to effectively communicate either verbally or through documentation, and many other skills.
+
+## Fundamental Concepts:
+- Windows troubleshooting skills
+- Remote Connectivity including RDP and SSH
+- Task in Linux using Bash scripting
+- Network Ports, and Ethernet
+- Network troubleshooting
+- Github Operations
+- Many More!
 
 ### Readings 
 - [Reading 1: Back Up Your System](reading-01-backupsystem.md)
@@ -19,6 +32,9 @@ Repository to keep everything 201 together!
 - [Reading 14: Malware Remediation Tools and Techniques](reading-14-malwareremediation.md)
 
 ### Ops Challeneges:
+My favorite Ops CHallenege assignment and also the one I would like to improve a bit more on was the Loops challenge. The reason this one was my favorite is because being being new at scripting, I found it a little bit difficult. I would like to improve it more because I feel that I could shorten it and make it more simplified. 
+The aspect that I would like to improve with my shell scripting skillset is my efficiency and other debugging practices. I would also like to learn more about automation when it comes to common task that I use.
+
 - [My First Bash Script](challenge2-myfirstbash.sh)
 - [Functions](challenge3-functions.sh)
 - [Arrays](challenge4-arrays.sh)
