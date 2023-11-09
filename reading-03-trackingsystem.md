@@ -1,4 +1,5 @@
 # Reading 03: Issue Tracking System
+[Article Link](https://www.pearsonitcertification.com/articles/article.aspx?p=2260779&seqNum=5)
 
 ### What role does the help desk professional play with an organization, particularly in relation to customers?
 - Even though the help desk professional is probably not the highest level of professional working for a company or own it, they are the face of the company. They are the first people that customers talk to or deal with in an organization. 
