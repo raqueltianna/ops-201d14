@@ -17,3 +17,13 @@ Repository to keep everything 201 together!
 - [Reading 12: Virtualizing a Router with pfSense](reading-12-virtualizepfsense.md)
 - [Reading 13: Cloud Virtualization with AWS](reading-13-virtualizewithaws.md)
 - [Reading 14: Malware Remediation Tools and Techniques](reading-14-malwareremediation.md)
+
+### Ops Challeneges:
+- [My First Bash Script](challenge2-myfirstbash.sh)
+- [Functions](challenge3-functions.sh)
+- [Arrays](challenge4-arrays.sh)
+- [Loops](challenge5-loops.sh)
+- [Conditionals](challenge6-conditionals.sh)
+- [System Information](challenge7-systeminfo.sh)
+- [Windows Batch Scripting](challenge8-windowsbatch.md)
+- [Log Retrieval via Powershell](challenge9-powershelllog.bat)
