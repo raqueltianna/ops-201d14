@@ -14,4 +14,4 @@
 - The author emphasizes that the SOP is tailored to the audience, which is most likely the employees. It has to be tailored towards their needs and knowledge to make it more likely to be understood, followed, and implemented. 
 
 ### Imagine you are a part of a multicultural team responsible for following an SOP. How would you address potential misunderstandings or differing interpretations of the procedure due to cultural differences? Propose strategies to foster effective cross-cultural communication.
-- I would make sure that the SOPs didn't need to be clairified or simplified. I would also ask for feedback, sometimes you don't know that people aren't understanding unless you ask. 
+- I would make sure that the SOPs didn't need to be clarified or simplified. I would also ask for feedback, sometimes you don't know that people aren't understanding unless you ask. 
