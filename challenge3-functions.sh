@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Script Name:                       Loginhistory.sh
+#Script Name:                       challenge3-functions.sh
 #Author Name:                       Tianna Farrow 
 # Date of latest revision:          10/25/2023
 #Purpose:                           Create a function that prints Login History
