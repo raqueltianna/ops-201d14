@@ -1,7 +1,7 @@
 # Reading 06: Windows Security Center 
 [Article Link](https://www.thewindowsclub.com/windows-defender-security-center)
 
-###What are the five main sections included in the Windows Defender Security Center, and what functionalities do they offer?
+### What are the five main sections included in the Windows Defender Security Center, and what functionalities do they offer?
   - Virus & Threat Protection: It allows you to perfrom scans on your system and g ives inofrmation on scan history and detected threats.
   - Device Performance & Health: It monitors the health of your device and allows you to deal with issues in regards to your device health
   - Firewall & Network Protection: It helps you manages your firewall setings and gives you information on your network and firewall settings.
