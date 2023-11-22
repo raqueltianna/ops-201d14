@@ -28,7 +28,7 @@
 - [Reading 10: Imaging, Backup, and Recovery](reading-10-imagingbackuprecover.md)
 - [Reading 11: Data Restoration, Startup Repair, and Secure Disposal](reading-11-datarestorerepairdispose.md)
 - [Reading 12: Virtualizing a Router with pfSense](reading-12-virtualizepfsense.md)
-- [Reading 13: Cloud Virtualization with AWS](reading-13-virtualizewithaws.md)
+- [Reading 13: Cloud Virtualization with AWS](reading-13-vitualizewithaws.md)
 - [Reading 14: Malware Remediation Tools and Techniques](reading-14-malwareremediation.md)
 
 ### Ops Challeneges:
